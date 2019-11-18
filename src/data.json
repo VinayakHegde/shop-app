@@ -1,0 +1,20 @@
+{
+  "products": {
+    "1": {
+      "name": "pen",
+      "price": 3
+    }, 
+    "2": {
+      "name": "pencil",
+      "price": 2
+    },
+    "3": {
+      "name": "notebook",
+      "price": 3
+    },
+    "4": {
+      "name": "bag",
+      "price": 10
+    }
+  }
+}

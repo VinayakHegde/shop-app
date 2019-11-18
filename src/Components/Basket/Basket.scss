@@ -1,0 +1,18 @@
+.basket {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  padding: 10px;
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+    > button {
+      width: 90%;
+      display: flex;
+      justify-content: space-between;
+      padding: 2px 10px;
+      background: green;
+    }
+  }
+}
